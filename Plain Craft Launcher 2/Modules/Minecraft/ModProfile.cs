@@ -401,7 +401,7 @@ public static class ModProfile
                 Title = Lang.Text("Launch.Account.Type.Microsoft"),
                 Type = MyListItem.CheckType.RadioBox,
                 SvgIcon = "lucide/shield-check"
-            }
+            },
 
             new MyListItem
             {
